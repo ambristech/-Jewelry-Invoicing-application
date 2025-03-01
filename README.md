@@ -1,6 +1,9 @@
 Jewelry Shop Invoice System
 
 
+
+![Free -Jewelry-billing-software-india-GST](https://github.com/user-attachments/assets/c84c10f6-0a2f-4e89-8503-c0e5c72d3f5b)
+
 The Jewelry Shop Invoice System is a web-based application designed to manage inventory, track stock, and generate invoices for a jewelry retail business. Built with PHP and MySQL, it offers a responsive interface for managing categories, items, stock receipts, sales, and reports, accessible on both desktop and mobile devices.
 
 Features
